@@ -6,4 +6,4 @@ This project is builded by making some modifications on this skeleton: https://g
 
 For running the demo: 
 cd Clustering
-python demo.py --lfw_path path_to_lfw_dir -v vector_file
+python demo.py --lfw_path lfw/ -v feature_file
